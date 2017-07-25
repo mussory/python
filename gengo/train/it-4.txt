@@ -1,0 +1,266 @@
+
+[nascondi]
+Wikimedia-logo.svg Libera la cultura. Dona il tuo 5Å~1000 a Wikimedia Italia. Scrivi 94039910156. Wikimedia-logo.svg
+Persona (filosofia)
+Da Wikipedia, l'enciclopedia libera.
+Il termine persona proviene del latino pers?na, e questo probabilmente dall'etrusco phersu (Åemaschera dell'attore', ÅepersonaggioÅf), il quale procede dal greco ÉŒÉœoÉ–É÷ÉŒÉÕÉÀ [prosopon]. Il concetto di persona e un concetto principalmente filosofico, che esprime la singolarita di ogni individuo della specie umana in contrapposizione al concetto filosofico di Ågnatura umanaÅh che esprime cio che hanno in comune.
+
+Il significato attuale di persona ha origine nelle controversie cristologiche dei secoli IV e V. Nel corso del dibattito tra le differenti scuole teologiche, si svilupparono concetti fino allora sconosciuti. Si cercava di disporre di strumenti di pensiero filosofico, attraverso i quali mantenere un dibattito intellettuale onesto e rigoroso circa i dogmi riferiti al É©oÉ¡ÉÕ? (Logos: ÅgParolaÅh), e che permettessero chiarire le differenze o similitudini di questi con Dio Padre. Per questo la filosofia prese in prestito dal teatro greco il termine ÉŒÉœ?É–É÷ÉŒÉÕÉÀ [prosopon], e lo trasformo in un termine filosofico, definendo il É©oÉ¡ÉÕ? (Logos) come Persona divina. Per affinita, il concetto fu in seguito applicato allo Spirito Santo, agli angeli e agli uomini.
+
+In ambito filosofico, si definisce persona un essere dotato, nella concezione moderna almeno potenzialmente[1], di coscienza di se e in possesso di una propria identita[2]. L'esempio piu evidente di persona - per alcuni l'unico - e la persona umana[3]. La nozione di "persona" e anche oggetto degli approfondimenti propri dell'antropologia filosofica.
+
+Indice  [nascondi] 
+1	Etimologia
+2	Storia della nozione di "persona" in filosofia
+2.1	La nozione di "persona" nello Stoicismo
+2.2	La nozione di "persona" nel Cristianesimo
+2.2.1	La nozione di "persona" nel dogma della Trinita
+2.2.2	La nozione di "persona" nella cultura cristiana
+2.3	La nozione di "persona" nel pensiero filosofico moderno
+2.3.1	Il personalismo
+3	La nozione di "persona" nel dibattito bioetico
+4	Concetto di individuo
+5	Fenomenologia della persona
+6	Note
+7	Bibliografia
+8	Voci correlate
+9	Altri progetti
+10	Collegamenti esterni
+Etimologia[modifica | modifica wikitesto]
+Il termine "persona" deriva dal latino pers?na pers?nam derivato probabilmente dall'etrusco[4] É”ersu[5], indi É”ersuna[6], che nelle iscrizioni tombali riportate in questa lingua indica "personaggi mascherati". Tale termine etrusco sarebbe ritenuto un adattamento del greco ÉŒÉœ?É–É÷ÉŒÉÕÉÀ (pros?pon) dove indica il volto dell'individuo[7], ma anche la maschera dell'attore e il personaggio da esso rappresentato. Secondo Giovanni Semerano originariamente il valore richiamava quello del latino pars ossia parte, funzione, ufficio di un personaggio, mentre quello di maschera e derivato e posteriore come anche per ÉŒÉœ?É–É÷ÉŒÉÕÉÀ, che comunque non sarebbe in nessun rapporto etimologico con persona[8].
+
+Un'etimologia alternativa e stata individuata nel verbo latino personare[9], (per-sonare: parlare attraverso). Cio spiegherebbe perche il termine persona indicasse in origine la maschera utilizzata dagli attori teatrali, che serviva a dare all'attore le sembianze del personaggio che interpretava, ma anche a permettere alla sua voce di andare sufficientemente lontano per essere udita dagli spettatori. Tuttavia, dal punto di vista fonetico, e necessario ricordare che il verbo latino personare ha vocale radicale breve (?), mentre il sostantivo persona presenta una vocale lunga (?). E inoltre chiaro che la capacita di farsi sentire da lontano era piuttosto da attribuire alla forma del teatro che non alla maschera indossata dall'attore. Tale etimologia, infine, si scontra con l'assenza in latino di altri sostantivi in -?na di tipo deverbale, mentre sembra piu vicina a termini di origine etrusca in -?na, da rintracciare in particolare nell'onomastica. Ciononostante, e probabile che i due termini siano stati accostati in ambito latino paretimologicamente sulla base della prossimita semantica e dell'ambito d'uso.
+
+Con lo Stoicismo il termine "persona" inizio ad indicare l'essere umano che ha un ruolo nel mondo affidatogli dal suo destino.
+
+A partire da Tertulliano (155-230) il termine latino "persona" occorre a descrivere la Trinita[10]: "una sostanza, tre persone" (una substantia, tres personae)[11]; mentre con Gregorio Nazianzeno (329-390) tale termine assume anche nella tradizione cristiana un significato ulteriore e differente da quello di maschera riguardando invece l'umana indipendenza e intelligenza[12].
+
+Alano di Lilla (1125-1202), in Regulae de sacra Theologia (XXXII), sostenne che l'origine del termine andava cercato nell'espressione latina res per se una, etimologia fantasiosa che tuttavia ebbe non pochi seguaci tra gli autori scolastici.
+
+Storia della nozione di "persona" in filosofia[modifica | modifica wikitesto]
+La nozione di "persona" nello Stoicismo[modifica | modifica wikitesto]
+Il primo autore a trasferire il termine "persona", dall'utilizzo comune di "maschera" teatrale e "faccia", nell'ambito filosofico fu lo stoico greco Panezio (185-109 a.C.)[13][14]. L'etica stoica antica sosteneva l'eguaglianza di tutti gli esseri umani i quali condividevano gli stessi doveri morali. Come nota Max Pohlenz[15], Panezio era di origine e di sentimenti un aristocratico, convinto assertore delle differenze umane determinate dalle circostanza ambientali, egli sostenne che l'uomo non portava sulla "scena" della vita la sola maschera (prosopon) generica dell'essere umano, ma anche quella che caratterizzava la propria individualita fin dalla nascita alla quale, successivamente, se ne aggiungevano altre due: una terza, determinata dalle vicissitudini della vita, e una quarta caratterizzata dalla sua attivita lavorativa. Cosi chiosa Pohlenz:
+
+Å· Per la prima volta qui si da un riconoscimento etico alla personalita individuale Å‚
+(Max Pohlenz. La Stoa pag.409)
+anche se il filologo tedesco si affretta a precisare che nell'epoca classica:
+
+Å· Il ruolo decisivo rimane riservato alla natura umana universale, che sottomette l'individuo alla legge razionale, obbligatoria in egual modo per tutti, e fissa i limiti entro i quali dovra svilupparsi l'individualita di ciascuno Å‚
+(Max Pohlenz. La Stoa pag.409)
+Comunque:
+
+Å· Fu lui che per primo valuto pienamente, anche sul piano scientifico ed etico, il significato della personalita individuale Å‚
+(Max Pohlenz. L'uomo greco pag.301)
+La nozione greca di "persona" elaborata da Panezio verra ripresa e diffusa nel mondo romano da Cicerone (106-43 a.C.):
+
+(LA)
+Å· Intellegendum etiam est duabus quasi nos a natura indutos esse personis; quarum una communis est ex eo, quod omnes participes sumus rationis praestantiaeque eius, qua antecellimus bestiis, a qua omne honestum decorumque trahitur et ex qua ratio inveniendi officii exquiritur, altera autem quae proprie singulis est tributa. Å‚
+(IT)
+Å· Oltre a questo, bisogna riflettere che la natura ci ha come dotati di due caratteri (personis): l'uno e comune a tutti, per cio che tutti siamo partecipi della ragione, cioe di quella eccellenza onde noi superiamo le bestie: eccellenza da cui deriva ogni specie di onesta e di decoro, e da cui si desume il metodo che conduce alla scoperta del dovere; l'altro invece e quello che la natura ha assegnato in proprio alle singole persone. Å‚
+(Cicerone, De officiis, I. Traduzione a cura di Dario Arfelli, in Cicerone. Opere politiche. Milano, Mondadori, 2007, pagg. 414-5)
+(LA)
+Å· Ac duabus iis personis, quas supra dixi, tertia adiungitur, quam casus aliqui aut tempus imponit, quarta etiam, quam nobismet ipsis iudicio nostro accommodamus. Å‚
+(IT)
+Å· In verita a quei due caratteri (personis), di cui ho parlato piu sopra, se ne aggiunge un terzo, che ci e imposto dal caso o dalle circostanze; e ancora un quarto, che noi stessi ci assegniamo di nostro libero arbitrio. Å‚
+(Cicerone. De officiis, I. Traduzione a cura di Dario Arfelli in Cicerone. Opere politiche. Milano, Mondadori, 2007, pagg. 420-1)
+La nozione di "persona" nel Cristianesimo[modifica | modifica wikitesto]
+La nozione di "persona" e essenziale nella formulazione delle due verita di fede cristiana piu centrali: la Trinita (Dio e Uno ma in tre Persone) e l'incarnazione del Verbo in Gesu (due nature, divina e umana, in una sola Persona, la Seconda della Trinita, il Figlio o Verbo)[16].
+
+Per fissare i concetti e stata particolarmente importante la definizione di Boezio di Persona, come Ågnaturae rationalis individua substantiaÅh, (sostanza individuale di natura razionale). [17]
+
+Un'altra definizione, piu completa, e quella di Giovanni Damasceno: "La persona, esprimendo se stessa attraverso le sue operazioni e proprieta, pone di se una manifestazione che la distingue dalle altre della stessa specie."[18]
+
+La nozione di "persona" nel dogma della Trinita[modifica | modifica wikitesto]
+La presenza di un credo trinitario non e chiaramente espressa nei vangeli "canonici", esistono formule triadiche,[19] ma occorre aspettare il II secolo, con le opere di Teofilo di Antiochia (II sec.)[20] e di Tertulliano (155-230)[21], per arrivare ad una piu precisa nozione teologica e al conseguente termine di "Trinita".
+
+Tommaso di Aquino riprende la definizione di persona data da Boezio, come sostanza individuale di natura razionale. La persona e identificata quindi da tre proprieta:
+
+individualita: cio che e indistinto in se stesso e distinto dagli altri;
+sostanzialita: unione di forma e materia, non per accidente;
+razionalita: natura intellettuale, quanto di piu nobile c'e in tutto l'universo.
+In Dio la nozione di Persona presenta alcune differenze rispetto all'uomo: si puo dire che Dio e di Å·natura ragionevoleÅ‚, in quanto ragione significa natura intellettuale, e non in quanto implica processo discorsivo del pensiero umano. Essere Å· sostanza Å‚ conviene a Dio in quanto essa significa esistere per se, essendo Dio privo di accidente. A Dio non puo convenire di essere Å·individuoÅ‚, come se il principio della sua individuazione fosse la materia: ma solo in quanto individuo include incomunicabilita.
+
+In questo ambito il termine latino di "persona" fu utilizzato da Tertulliano per indicare la distinta realta del Figlio[22] e dello Spirito santo[23] dal Padre.
+
+Il termine "persona" venne dunque impiegato da Tertulliano per tentare di spiegare in termini comprensibili alla ragione umana il dogma della "Trinita". Si trattava, da questo punto di vista, soprattutto di difendersi dalle accuse di politeismo e di arginare le varie eresie cristologiche, tendenti a negare ora l'umanita ora la divinita di Cristo. "Dio e un'unica sostanza in tre Persone" ( una substantia tres personae). Da questa posizione emerge la nozione di "persona" come relazione all'interno di Dio tra il Padre, il Figlio e lo Spirito Santo, e quindi relazione con gli uomini. Per analogia tra il Creatore e la creatura, inoltre, il termine "persona" risultava applicabile all'uomo stesso.
+
+La nozione di "persona" nella cultura cristiana[modifica | modifica wikitesto]
+Il termine greco di "persona" (ÉŒÉœÉÕÉ–?ÉŒÉ÷ÉÀ) compare per la prima volta, nella letteratura cristiana, nella Seconda lettera ai Corinzi di Paolo di Tarso:
+
+(el[24])
+Å· É–É“ÉÀÉ“ÉŒÉÕÉ“ÉœÉ¡ÉÕ?ÉÀÉ—É÷ÉÀ É»Éø? ?É ?ÉÀ ?ÉŒ?Éœ ?É ?ÉÀ É—? É¬É√?É–É√É«, ?ÉÀÉø ?É» ÉŒÉÕÉ…É…?ÉÀ ÉŒÉœÉÕÉ–?ÉŒÉ÷ÉÀ É—? É√?? ?É ?? É‘?ÉœÉ«É–É Éø É¬É«? ÉŒÉÕÉ…É…?ÉÀ É√?É‘ÉøÉœÉ«É–É—É≈É∆? ?ÉŒ?Éœ ?É ?ÉÀ. Å‚
+(IT)
+Å· grazie anche alla vostra cooperazione nella preghiera per noi. Cosi, per il favore divino ottenutoci da molte persone, saranno molti a rendere grazie per noi.[25] Å‚
+(Seconda lettera ai Corinzi 1,11)
+La nozione di "persona" nel pensiero filosofico moderno[modifica | modifica wikitesto]
+Il personalismo[modifica | modifica wikitesto]
+La corrente filosofica che si e maggiormente soffermata su questo concetto, facendone il cardine della propria riflessione e il Personalismo. Tale termine designa un movimento di pensiero di matrice cristiana (prevalentemente cattolico) nato in Francia, agli inizi degli anni trenta, attorno alla rivista Esprit di Emmanuel Mounier. Si tratta di una corrente che si esprime coerentemente in piu posizioni articolate tra loro. Innanzitutto e una risposta politica, una "terza via" tra i pericoli dell'individualismo capitalista e il collettivismo delle ideologie comuniste e fasciste (ideologie mai pero equiparate dai pensatori personalisti, contraddistinti da un forte impegno cristiano-democratico orientato decisamente a sinistra). Nel personalismo coscienza e responsabilita sociale non si contraddicono, ma sono dimensioni indispensabili per la piena realizzazione dell'uomo che in quanto persona e appunto relazione, relazione con Dio e con il prossimo.
+
+Altro tema caro al personalismo e rivalutazione della corporeita e la critica delle interpretazioni dualistiche. In questo clima filosofico si ritrovano pensatori anche differenti tra loro e che danno vita a ricerche altrimenti articolate: tra questi Paul Ricoeur, maestro francese della fenomenologia e dell'ermeneutica o Jacques Maritain che da un grande contributo allo sviluppo del Neotomismo nel Novecento.
+
+Vengono considerati "personalisti" filosofi anche non cristiani ma appartenenti alla religione ebraica, come Martin Buber ed Emmanuel Levinas, in quanto nelle loro riflessioni insistono notevolmente sulla relazionalita[26]. Col Personalismo si intrecciano piu correnti del Novecento, in particolare il neotomismo, la fenomenologia e l'esistenzialismo cristiano (per quest'ultimo si faccia riferimento soprattutto a Gabriel Marcel).
+
+In Italia assumono posizioni chiaramente personaliste Luigi Pareyson e, nella prassi piu politica, a questa corrente si richiama il gruppo cosiddetto dei "professorini": Fanfani, Lazzati, La Pira, Dossetti.
+
+Studioso di Mounier e forte sostenitore dell'attualita del personalismo e il professor Virgilio Melchiorre, dell'Universita Cattolica di Milano. Ricordiamo tra le opere piu significative: "Corpo e persona", "Essere e parola", "La via analogica".
+
+La nozione di "persona" nel dibattito bioetico[modifica | modifica wikitesto]
+Di persona si e tornato a parlare prepotentemente nell'attuale dibattito sulla bioetica. In particolare si e fatto urgente il tentativo di dare risposte a domande del genere: e persona un embrione? Quando comincia a esserlo? E persona ancora chi si trova in stato di morte cerebrale?
+
+Tematiche aperte nelle quali spesso e facile il fraintendimento e l'incomprensione proprio perche e dato per implicito un certo modo di intendere la persona.
+
+L'autore che in questi anni si e distinto per le posizioni piu forti e certamente Peter Singer. A partire dal suo celebre libro "Liberazione animale", e nel saggio "Killing Humans and Killing Animals"[27] egli ha proposto una riformulazione rivoluzionaria. Se si intende la persona non come centro di atti, ma come sostanza in grado di rappresentare se stessa esistente nel tempo, da questa definizione bisognerebbe dedurre che persona possono essere certamente un cane e una tigre ma non ancora un neonato, per esempio. Dunque la posizione del filosofo australiano porterebbe ad allargare i diritti in un campo interspecifico, cioe verso altre specie animali diverse da quella umana, restringendo pero allo stesso tempo i diritti (questa almeno e la critica che molti gli fanno) di alcune forme di vita umana. E sbagliato per Singer impiegare animali sani nella ricerca, ma non e necessariamente sbagliato utilizzare per questi scopi neonati anencefalici o pazienti in stato vegetativo persistente.
+Molti critici delle posizioni bioetiche cattoliche sostengono che alcuni teologi autorevoli del passato concordano nel ritenere un embrione "non persona". Fanno riferimento ad autori fondamentali, come San Tommaso d'Aquino che in effetti riteneva che l'anima (dal greco anemos, respiro) subentrasse nell'individuo in un momento successivo al suo concepimento fisico. Per i metafisici cattolici come Tommaso e evidentemente la presenza dell'anima a fare di un uomo una persona. Dunque anche per lui l'embrione non sarebbe tale.
+
+Il filosofo Adriano Pessina, studioso di Henri Bergson e allievo del prof. Adriano Bausola, di fronte all'uso non soltanto analogo, ma equivoco, del termine persona nei dibattiti bioetici, propone di ritornare a parlare dell'essere umano e dei suoi diritti[28]. Al di la di questa proposta "pragmatica", in sede teoretica Pessina ricorda, dopo aver evidenziato l'uso teologico della nozione di persona[29] che e stato proprio Tommaso d'Aquino a sottolineare che la nozione di persona umana, a differenza di quella di persona, e una nozione univoca, che indica esclusivamente l'essere umano nella sua unicita empirica. Nella storia della filosofia, troviamo almeno tre significati di persona riferiti all'uomo: la persona come soggetto psichico (John Locke), la persona come agente morale (Immanuel Kant) e la persona umana come soggetto ontologico (Tommaso d'Aquino). Pessina sviluppa una serrata critica alle teorie di Peter Singer che intendono attribuire anche all'animale la peculiarita della persona e mette in luce come sia proprio la soggettivita ontologica ad essere la condizione di possibilita della soggettivita psichica e morale[30]. Nel saggio del 2009, Biopolitica e persona[31], Pessina ha evidenziato come la sostituzione della nozione di essere umano con quello di persona, intesa nell'accezione psichica o etica, si e trasformata in uno strumento di discriminazione tra gli esseri umani, che rischiano di perdere i loro diritti proprio nelle condizioni di estrema fragilita, quali lo sviluppo e la malattia.
+
+E comunque interessante notare come un concetto nato dalla teologia cristiana possa finire per essere utilizzato da cristiani e non cristiani contro le posizioni non medievali di una Chiesa ritenuta "cristiana".
+
+Concetto di individuo[modifica | modifica wikitesto]
+Si tratta di un termine fondamentale della cultura occidentale, che si rappresenta appunto come civilta che riconosce il sacro valore dell'individuo-persona. Cio la contraddistingue dalle societa orientali, tradizionalmente finora piu marcatamente comunitariste.
+
+Il concetto di "soggetto" e di relazione "soggetto-oggetto" costituisce un tema chiave della cultura, della filosofia e della teologia occidentali. Il soggetto si configura progressivamente, nel corso della storia, come individuo autonomo, fulcro del sistema socio-culturale. Il concetto di "personal identity" si delinea chiaramente nella seconda edizione (1694) del "Saggio sull'intelletto umano" di John Locke.[32] Da allora la centralita dell'individuo nel sistema sociale "ha ossessionato le filosofie dell'occidente". [33]). Importanti correnti culturali contemporanee hanno messo in rilievo la capacita dell'individuo di autoplasmarsi, di scolpire se stesso come una statua (Michel Foucault, "Tecnologie del se", 1992). La liberta personale diventa, di conseguenza, il valore fondamentale de "La societa degli individui" (Norbert Elias, 1987).
+
+La differenza sostanziale tra individuo e persona, consiste nel fatto che il primo sia provvisto soltanto di coscienza, mentre la seconda anche di autocoscienza e personalita; sia quindi in grado di ri-conoscersi[34]. Questa differenza ha convinto alcuni studiosi a ritenere che possano esistere persone non umane[35], ossia creature, umane o extraumane ipotizzate, che possano come noi essere autocoscienti e quindi dotate di dignita o, come si ritiene in ambito religioso, di anima.
+
+Fenomenologia della persona[modifica | modifica wikitesto]
+Una fenomenologia della persona viene proposta all'inizio del XX secolo da Max Scheler nell'opera Formalismus in der Ethik und die materiale Wertethik (1913-1917). La persona viene distinta dal soggetto e dall'Io (e questo permette di evitare il paradosso di Peter Singer) e ripensata in riferimento al concetto di atto[36] e di ordo amoris. La sua caratteristica principale e quella di assumere una forma e costituire la propria identita mediante la co-esecuzione dell'atto, cioe di fronte all'altro e non autoprogettualmente[37], tuttavia in una prospettiva dinamica e non statica in quanto la caratteristica della persona e quella di materializzare Å·l'essere totale di un uomo in una forma, in una struttura, ma non come puo avvenire per la forma di una statua [Åc] bensi in una forma del tempo, di una totalita che consiste solo ed esclusivamente in decorsi, processi e attiÅ‚[38]. Proprio l'esempio della statua, che ritroviamo successivamente anche in Foucault, permette di mettere in luce le divergenze: al contrario di Foucault in Scheler la persona non realizza la propria forma incompiuta in senso autoprogettuale, ma solidaristico, cioe attraverso l'esempio dell'altro (teoria del Vorbild)[39] e in interazione con i suoi atti dell'odiare e dell'amare. Altrettanto la liberta della persona non e piu risolvibile nel libero arbitrio del soggetto, ma diventa una liberta situata, cioe condizionata dal problema della realizzazione solidaristica della persona.
+
+Note[modifica | modifica wikitesto]
+^ Cfr. ad esempio
+Å· A person is the type of entity that possesses a mind. (The mind does not have always to be conscious: a sleeping or comatose person is still a person.) Å‚
+(Brian Garrett. Persons, Routledge Encyclopedia of Philosophy 1.0, Londra e New York, Routledge, 1998, pagg.6437 e segg.)
+^ Luigi Stefanini e Franco Riva, rilevando che seppur la precisazione della nozione di "persona" e tutt'oggi irta di "dubbi e difficolta", ritengono che il percorso moderno di questo concetto avrebbe chiarito che con esso si possa intendere:
+Å· l'ente che si esprime a se stesso nell'atto in cui intende, vuole e ama Å‚
+(Luigi Stefanini e Franco Riva. Persona in Enciclopedia filosofica, vol.9. Milano, Bompiani, 2006, pagg. 8526 e segg.)
+Brian Garrett, domandandosi cosa si possa intendere con "persone" (cfr. Routledge Encyclopedia of Philosophy 1.0, Londra e New York, Routledge, 1998, pagg.6437 e segg), lega direttamente gli approfondimenti di tale nozione alle conclusioni cui giunse gia nel XVII secolo John Locke quando sostenne che "persona" e Å·a thinking, intelligent being, that has reason and reflection, and can consider itself as itself, the same thinking thing, in different times and placesÅ‚. Anche Giovanni Jervis considera valide alcune conclusioni a cui giunse il filosofo inglese tre secoli fa:
+Å· Gran parte delle sue considerazioni sono valide oggi a tre secoli di distanza. Concetti come persona, identita e se, trovano qui una definizione che e gia moderna, e che concretamente ci e utile Å‚
+(Giovanni Jervis. Presenza e identita. Milano, Garzanti, 1984, pag.40)
+^
+Å· If all persons are human beings, this is just a contingent truth. Å‚
+(Brian Garrett. Persons, Routledge Encyclopedia of Philosophy 1.0, Londra e New York, Routledge, 1998, pagg.6437 e segg.)
+^ voce Persona Vocabolario Treccani
+^ pers?na: lat. pers?na dall'etrusco phersu 'maschera'? 1219. (dizionario Zanichelli)
+^ É” si intende come "p" aspirata adattata in latino come occlusiva semplice.
+^ ÉŒÉœ?É–É÷ÉŒÉÕÉÀ, ÉÕÉ“ faccia, volto, aspetto, letteralmente parte anteriore del viso: v. É ?É—É÷ÉŒÉÕÉÀ. Dalla prep. ÉŒÉœ?? (v.) unita, con la base corrispondente ad accad. ?pum < appum (parte superiore, naso, viso 'snout, tip, croun, nose'), sir. app? (viso, 'Gesicht'): cfr. ÉŒÉøÉœÉ√É«Éø?. (da Dizionario della lingua greca in Le origini della cultura europea. Vol. II, Dizionari etimologici, Basi semitiche delle lingue indoeuropee, Giovanni Semerano, p. 241)
+^ pers?na, -ae personaggio, parte, compito, dignita, maschera. Il valore originario richiama quello di lat. Å·parsÅ‚ parte, funzione, ufficio (Ter., Eun. 26) di un personaggio, mentre quello di "maschera" e derivato. A fuorviare la ricerca etimologica concorse il costante accostamento a ÉŒÉœ?É–É÷ÉŒÉÕÉÀ (v.), con il quale "persona" etimologicamente non ha nulla da vedere: anche per ÉŒÉœ?É–É÷ÉŒÉÕÉÀ il significato di "maschera" e posteriore. La base di Å·pers?naÅ‚ corrisponde a ant. bab. par?u (compito, parte, ufficio, 'Amt.: es. par?u ?arr?ti Konigsmat'); cfr. persu (parte, settore, delimitazione, 'Teil, Abtrennung'); per la formazione di Å·pers?naÅ‚, oltre alla base par?u calcata su persu (parte), interviene l'afformante -?na corrispondente a quella accadica -?nu: accad. d?'ik?nu (l'assassino) da daku (uccidere, 'schlagen'), ?arr?q?nu (il ladro), da ?ar?qu (rubare, 'stehlen') etc. (da Dizionario della lingua latina e di voci moderne in Le origini della cultura europea. Vol. II, Dizionari etimologici, Basi semitiche delle lingue indeuropee, Giovanni Semerano, p. 514)
+^ Etimologia : persona; dizionario etimologico redatto da Pianigiani.
+^ L'utilizzo di questo termine in tale contesto teologico cristiano lo si deve per analogia, ovvero al fatto di cercare di:
+Å· adombrare i misteri della fede sulla base dell'esperienza dell'uomo fatto a immagine di Dio Å‚
+(Luigi Stefanini e Franco Riva. Op.cit., pag. 8527)
+^ Tertulliano, Adversus Praxean (Contro Prassea), 12, 7; 18,2. Joseph Ratzinger. Dogma e predicazione. Brescia, Queriniana, 1973, pag.174
+^ Luigi Stefanini e Franco Riva. Op.cit..
+^ Evidenzia comunque Max Pohlenz:
+Å· i Greci avevano da tempo esteso il termine ÉŒÉœ?É–É÷ÉŒÉÕÉÀ, "faccia", "maschera", all'uomo rappresentato, e i Romani, traducendo ÉŒÉœ?É–É÷ÉŒÉÕÉÀ con persona, tennero loro dietro Å‚
+(Max Pohlenz. L'uomo greco. Milano, Bompiani, 2006, pag.301)
+^ Di Panezio non conserviamo alcuna opera se non frammenti che sono stati raccolti da Modestus Van Straaten in Panaetii Rhodii Fragmenta, Leida, 1946. Il capolavoro dello stoico greco fu comunque il Peri tou kathekontos (Sul dovere), opera perduta, a cui e possibile risalire con il De officiis di Cicerone a cui questa si ispira.
+^ Max Pohlenz. La Stoa. Milano, Bompiani, 2005, pagg.408 e segg.
+^ Catechismo della Chiesa Cattolica 253-267 e 461-483
+^ Boezio, Liber de persona et duabus naturis contra Eutychen et Nestorium, capitolo III, Migne, PL 64, 1343.
+^ Dialectica (cap. 43), in: Die Schriften des Johannes von Damaskos, Vol.I Institutio elementaris. Capita philosophica (Dialectica), a cura di Bonifatius Kotter, (Patristische Texte und Studien 7), Berlino 1969, la Dialectica e alle pp. 47-146.
+^ Cfr. ad esempio il Vangelo di Matteo 28,19 dove Gesu comanda ai suoi discepoli di battezzare nel nome del Padre, del Figlio e dello Spirito santo:
+(EL)
+Å· ÉŒÉÕÉœÉ√É“É∆?ÉÀÉ—É√? ÉÕ?ÉÀ É ÉøÉ∆É≈É—É√?É–ÉøÉ—É√ ÉŒ?ÉÀÉ—Éø É—? ?É∆ÉÀÉ≈, É¿ÉøÉŒÉ—?ÉƒÉÕÉÀÉ—É√? Éø?É—ÉÕ?? É√?? É—? ?ÉÀÉÕÉ Éø É—ÉÕ? ÉŒÉøÉ—Éœ?? É»Éø? É—ÉÕ? É“?ÉÕ? É»Éø? É—ÉÕ? ?É¡?ÉÕÉ“ ÉŒÉÀÉ√?É ÉøÉ—ÉÕ?Å·poreuthentes oun math?teusate panta ta ethn? baptizontes autous eis to onoma tou patros kai tou uiou kai tou agiou pneumatosÅ‚ Å‚
+(Vangelo di Matteo 28,19)
+^ Teofilo di Antiochia, apologeta di lingua greca, utilizzo nel suo Apologia ad Autolycum (II,15) il termine É—ÉœÉ«Éø? trias
+^ Tertulliano, apologeta di lingua latina, utilizzo nel suo De pudicitia (XXI) il termine trinitas.
+^ Tertulliano, Adversus Praxean VII
+^ Tertulliano, Adversus Praxean XI.
+^ Å·sunupourgount?n kai um?n uper ?m?n t? de?sei ina ek poll?n pros?p?n to eis ?mas charisma dia poll?n eucharist?th? uper ?m?nÅ‚
+^ Bibbia CEI 2008
+^ Si veda il principio dialogico di Buber, o la critica all'ontologia di Levinas in nome del primato del rapporto etico della coscienza con la trascendenza, l'infinito che non e mai un essere in terza persona da catalogare
+^ Inquiry: An Interdisciplinary Journal of Philosophy, Vol. 22, 1-4, 1979, pp. 145-156
+^ A. Pessina, Bioetica. L'uomo sperimentale, Bruno Mondadori, Milano 2006
+^ A. Pessina "Venire al mondo. Riflessione filosofica sull'uomo come figlio e come persona, in Cariboni, Oliva, Pessina, Il mio amore fragile. Storia di Francesco", XY.it. Editore, Arona 2011
+^ A. Pessina, Barriere delle mente e barriere del corpo. Annotazioni per un'etica della soggettivita empirica e in A. Pessina Paradoxa. Etica della condizione umana, Vita e Pensiero, Milano 2010
+^ Rivista Medicina e Morale. Rivista internazionale di bioetica
+^ Libro II, Capitolo XXVII (Of Identity and Diversity)
+^ Remo Bodei, "Destini personali", Milano, Feltrinelli, 2002, p.
+^ Persone non umane: una sfida antropologica | Rivista di Scienze Sociali, su www.rivistadiscienzesociali.it. URL consultato il 17 novembre 2015.
+^ Persone non umane: una sfida antropologica | Rivista di Scienze Sociali, su www.rivistadiscienzesociali.it. URL consultato il 17 novembre 2015.
+^ Karol Wojtyla, Persona e atto, Milano 2001
+^ Per uno sviluppo di questa prospettiva cfr. Guido Cusinato, Sistemi personali e sistemi autopoietici
+^ Max Scheler, Formare l'uomo, Milano 2009, 54-55
+^ M. Scheler, Modelli e capi, FrancoAngeli, Milano 2011
+Bibliografia[modifica | modifica wikitesto]
+Maria Bellincioni, "Il termine persona da Cicerone a Seneca", in Aa.Vv. Quattro studi latini, Parma, Universita degli Studi, 1981, pp. 37-115.
+Michael Carruthers et al. (eds.), The Category of the Person. Anthropology, Philosophy, History, Cambridge, Cambridge University Press, 1985.
+G. Goisis, M. Ivaldo, G. Mura, Metafisica, persona, cristianesimo. Scritti in onore di Vittorio Possenti, Roma, Armando editore, 2011. ISBN 8860817501
+Italo Lana, "Panezio scopritore del concetto filosofico di persona?", Rivista di storia e letteratura religiosa, 1, 1965, pp. 94-96.
+Marcel Mauss, Una categoria dello spirito umano: la nozione di persona, quella di "io", in Teoria generale della magia e altri saggi, Torino, Einaudi, 1965, pp. 351-381.
+Andrea Milano, Persona in teologia. Alle origini del significato di persona nel cristianesimo antico, Napoli, Edizioni Dehoniane, 1996 (seconda edizione riveduta).
+Jean Soldini, Chi si pettina i capelli alle Termopili? Uomo e persona, in Resistenza e ospitalita, Milano, Jaca Book, 2010, pp. 141-170.
+Renato Vignati, Lo sguardo sulla persona.Psicologia delle relazioni umane, Padova, Libreriauniversitaria.it Edizioni, 2016.
+Voci correlate[modifica | modifica wikitesto]
+Agostino d'Ippona
+Emmanuel Mounier
+Max Scheler
+Gilbert Simondon
+Individualismo
+Individualita
+Nominalismo
+Persona fisica
+Persona giuridica
+Personalismo
+Trinita (cristianesimo)
+Altri progetti[modifica | modifica wikitesto]
+Collabora a Wikiquote Wikiquote contiene citazioni sulla persona
+Collabora a Wikizionario Wikizionario contiene il lemma di dizionario Å·personaÅ‚
+Collabora a Wikimedia Commons Wikimedia Commons contiene immagini o altri file sulla persona
+Collegamenti esterni[modifica | modifica wikitesto]
+Marcel Mauss, Une categorie de l'esprit humain: la notion de personne, celle de "moi" (1938)
+Persona, in Thesaurus del Nuovo soggettario, BNCF, marzo 2013. Modifica su Wikidata
+Controllo di autorita	GND: (DE) 4134819-9
+Antropologia Portale Antropologia
+Cristianesimo Portale Cristianesimo
+Filosofia Portale Filosofia
+Categorie: Concetti delle scienze etnoantropologicheConcetti e principi filosoficiTeologia cristiana| [altre]
+Menu di navigazione
+Accesso non effettuatodiscussionicontributiRegistratiEntraVoceDiscussioneLeggiModificaModifica wikitestoCronologiaRicerca
+
+Cerca all'interno di Wikipedia
+Vai
+Pagina principale
+Ultime modifiche
+Una voce a caso
+Vetrina
+Aiuto
+Sportello informazioni
+Comunita
+Portale Comunita
+Bar
+Il Wikipediano
+Fai una donazione
+Contatti
+Strumenti
+Puntano qui
+Modifiche correlate
+Carica su Commons
+Pagine speciali
+Link permanente
+Informazioni sulla pagina
+Elemento Wikidata
+Cita questa voce
+Stampa/esporta
+Crea un libro
+Scarica come PDF
+Versione stampabile
+In altri progetti
+Wikimedia Commons
+Wikiquote
+Wikizionario
+In altre lingue
+???????
+English
+Espanol
+Bahasa Indonesia
+ì˙ñ{åÍ
+Portugues
+ÑQÑÖÑÉÑÉÑ{ÑyÑz
+????
+íÜï∂
+Altre 45
+Modifica collegamenti
+Questa pagina e stata modificata per l'ultima volta il 5 lug 2017 alle 14:39.
+Il testo e disponibile secondo la licenza Creative Commons Attribuzione-Condividi allo stesso modo; possono applicarsi condizioni ulteriori. Vedi le Condizioni d'uso per i dettagli. WikipediaR e un marchio registrato della Wikimedia Foundation, Inc. 
+Politica sulla privacyInformazioni su WikipediaAvvertenzeSviluppatoriDichiarazione sui cookieVersione mobileWikimedia Foundation Powered by MediaWiki
